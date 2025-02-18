@@ -1,4 +1,4 @@
-# 聚餐分帳計算器
+# assignment2
 
 ## 學生姓名
 Kwong Hay Man
